@@ -1,110 +1,50 @@
-# Hi, I'm Elie Salomon 👋
+# Hi, I'm Elie 👋
 
-### Software Engineering · Data Science · Cloud Systems · AI Applications
+I’m a software and data professional based in Indianapolis.
 
-I build practical software products that combine application development, cloud infrastructure, data, automation, and AI. My background spans systems engineering, applied data science, software development, cloud computing, and technical education.
+My background is in systems engineering and applied data science, and lately I’ve been spending a lot of my time building web, mobile, and AI-powered products.
 
-I enjoy taking ideas from concept through architecture, implementation, testing, security hardening, and deployment.
+I enjoy working on projects that solve practical problems and learning new technologies along the way.
 
-## 🚀 Featured Engineering Projects
+## What I'm working on
 
-### PaleLa — English for Real Life
-**AI-powered language learning platform**
+### PaleLa
+An AI-powered language learning app focused on helping people learn English for real-life situations.
 
-A mobile learning experience focused on practical communication, multilingual support, AI conversation, listening, pronunciation, and adaptive learning.
-
-**Technology:** Flutter · Dart · Firebase · Cloud Functions · AI/LLM Integration · Speech Recognition · Text-to-Speech · Automated Testing
-
-> 🔒 Active development is maintained in a private repository.
+Flutter · Firebase · AI · Speech
 
 ### KFE Invoices
-**Production-oriented SaaS billing platform for small businesses**
+A billing and invoicing platform for small businesses.
 
-Supports customers, estimates, invoices, payment tracking, recurring billing, revenue visibility, tenant-aware authorization, and server-side scheduled workflows.
-
-**Technology:** React · TypeScript · Vite · Supabase · PostgreSQL · Row Level Security · Edge Functions · Cron · Cloudflare
-
-> 🔒 Application development is maintained in a private repository.
+React · TypeScript · Supabase · PostgreSQL
 
 ### Immigration Workflow Platform
-**Secure, multilingual legal-tech platform under development**
+An early-stage project exploring better ways to organize immigration case information and workflows.
 
-An engineering foundation for structured immigration case data, document-driven workflows, multilingual experiences, background processing, and maintainable domain boundaries.
-
-**Technology:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Alembic · Redis · Docker
-
-> 🔒 Active development is maintained in a private repository.
+Next.js · Python · FastAPI · PostgreSQL
 
 ### KFE Digital Studio
-**Web, application, cloud, data, and AI product development**
+A collection of web, software, and AI projects I build for businesses and organizations.
 
-A production-oriented digital studio platform with responsive experiences, guided project intake, qualified chat, validated server routes, and a modern TypeScript architecture.
+Next.js · React · TypeScript
 
-**Technology:** Next.js · React · TypeScript · Tailwind CSS · Server APIs · Automated Testing
+## Other projects
 
-> 🔒 Production development is maintained in a private repository.
+I also build websites and digital tools for community organizations, businesses, and events.
 
-## 🌐 Selected Public Projects
+- [GETECH Enterprise](https://github.com/elisalom001-cpu/getech) — business website for HVAC, refrigeration, plumbing, and electrical services
+- [Camp Meeting 2026](https://github.com/elisalom001-cpu/campmeeting2k26) — custom event website
+- [A Vintage Tea Affair](https://github.com/elisalom001-cpu/div-des-filles) — interactive invitation and RSVP experience
+- [The Voice SOJAM](https://github.com/elisalom001-cpu/the-voice-sojam-deploy) — community-focused web project
+- Baby Shower Estimé — RSVP and event website
 
-### [GETECH Enterprise](https://github.com/elisalom001-cpu/getech)
-Responsive multi-page business website for HVAC, refrigeration, plumbing, electrical, and maintenance services.
+## Technologies I use
 
-**Focus:** responsive design · semantic HTML · CSS architecture · JavaScript interactions · accessibility · deployment
+Python · TypeScript · JavaScript · Dart · SQL  
+React · Next.js · Flutter  
+PostgreSQL · Supabase · Firebase  
+Cloudflare · Docker · Git · GitHub
 
-### [Camp Meeting 2026](https://github.com/elisalom001-cpu/campmeeting2k26)
-Custom event website with schedule, contact, photo, program, and custom-domain deployment.
+## A little about me
 
-**Focus:** responsive web development · event UX · static deployment · custom domain
-
-### [A Vintage Tea Affair](https://github.com/elisalom001-cpu/div-des-filles)
-Interactive event invitation with animations, countdown, RSVP workflow, installable web-app features, and mobile-first design.
-
-**Focus:** JavaScript · responsive UI · PWA concepts · service worker · event interaction design
-
-### [The Voice SOJAM](https://github.com/elisalom001-cpu/the-voice-sojam-deploy)
-Community and event-oriented digital experience built for a real organization and deployed publicly.
-
-**Focus:** web development · deployment · community-facing product design
-
-## 🧩 Additional Work
-
-I also build client, community, and event-focused digital products, including RSVP experiences, invitation sites, organizational websites, and internal business applications. Some of these projects remain private because they contain client-specific or production-sensitive material.
-
-## 🛠 Technical Toolkit
-
-**Languages**  
-Python · TypeScript · JavaScript · Dart · SQL · HTML · CSS
-
-**Frontend & Mobile**  
-React · Next.js · Flutter · Vite · Tailwind CSS
-
-**Backend & Data**  
-FastAPI · PostgreSQL · Supabase · Firebase · Redis · REST APIs · Alembic
-
-**Cloud & Infrastructure**  
-Linux · Cloudflare · Docker · Git · GitHub · Serverless Architecture · Cloud Functions
-
-**AI & Data**  
-Applied Data Science · Machine Learning · LLM Integration · AI Automation · Speech Technologies
-
-**Engineering Practices**  
-Automated Testing · Database Migrations · Row Level Security · API Design · CI/CD Concepts · Security Hardening · Technical Documentation
-
-## 🎯 Areas of Interest
-
-- Full-stack software engineering
-- Applied artificial intelligence
-- Data-driven applications
-- Cloud and systems architecture
-- SaaS product development
-- Secure application design
-- Mobile development
-- Technical education and mentorship
-
-## 👨‍💻 Background
-
-My professional experience includes systems engineering, data science, cloud computing, software development, and higher-education teaching. I bring an infrastructure and data perspective to product development, with an emphasis on building software that is useful, maintainable, and grounded in real-world needs.
-
-## 📫 Connect
-
-I'm open to opportunities where software engineering, data, cloud systems, AI, and technical leadership intersect.
+I’ve worked in systems engineering, data science, and technical education. I like building things, figuring out how systems work, and turning ideas into usable products.
